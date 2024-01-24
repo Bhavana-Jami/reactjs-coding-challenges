@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# reactjs-machine-coding-challenges
+These ReactJS practice challenges will be helpful for preparing for ReactJS interviews and to keep your front end skill in check.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# resources
+# 30 react questions I find super useful in the interviews 
+https://www.linkedin.com/posts/arunm-engineer_30-react-questions-i-find-super-useful-in-activity-7144174550044262400-DUBC?utm_source=share&utm_medium=member_desktop
+https://codeinterview.io/blog/reactjs-coding-interview-questions/
 
-## Available Scripts
+# front end machine coding round challenges
+https://youtube.com/playlist?list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo&si=iP3X2c9Kx5Qy4ybX
+https://youtube.com/playlist?list=PLe3J6mZBq1xUs529Z-IHiCix4KBm0uLp1&si=PmJjwOQcNd-tsnVE
+https://youtu.be/gF5cR6mn8ag?si=9KHe7vvugTZ5wUjH
+https://youtube.com/playlist?list=PL_KW_uw2ITn_J_BNfTpv-yePk8vcyg4dp&si=PwrAuXjw8W16etPW
+https://youtu.be/8aDAtTtQmbQ?si=9TvyC9Ja4WpFcXcg
+https://youtu.be/3CKk90bO9DY?si=Ee30UfIlB2i4nJf8
+https://youtu.be/SFVjbdSEFQ4?si=bHqxPH0IWnUuKuK8
+https://youtu.be/cBsB7hhOzQI?si=J3HUiPKNZTjECNNd
+https://www.udemy.com/course/react-js-interview-machine-coding-round-preparation-2023/learn/lecture/37704712#overview
+https://www.linkedin.com/posts/nikhiljha01_react-webdevelopment-job-activity-7074028523899817984-yAky?utm_source=share&utm_medium=member_desktop
+https://github.com/NikhilJHA01/Machine-Coding-Round?tab=readme-ov-file
+https://github.com/NarendraKoya999/Frontend-Machine-Coding-Interview-Questions
+https://www.linkedin.com/posts/vedantjain0087_top-10-machine-coding-questions-that-are-activity-7067333198539558912-Vhyt?utm_source=share&utm_medium=member_desktop
+https://medium.com/womenintechnology/commonly-asked-machine-coding-problem-in-front-end-interviews-e16042ab1e10
+https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca
+https://betterprogramming.pub/here-are-6-frontend-challenges-to-code-9952190c97cc
+https://www.linkedin.com/posts/harshit-chopra-b98a94189_javascript-frontend-interviewquestions-activity-7151057916580552704-ZEfK?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/sweta-soni-45114526b_repost-linkedin-connections-activity-7151436925726277633-QTbC?utm_source=share&utm_medium=member_android
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# algorithms
+https://www.linkedin.com/posts/sosamsony_webdevelopment-html5-webdeveloper-activity-7155049157274042368-vO1j?utm_source=share&utm_medium=member_android
