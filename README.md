@@ -7,6 +7,7 @@ https://www.linkedin.com/posts/arunm-engineer_30-react-questions-i-find-super-us
 https://codeinterview.io/blog/reactjs-coding-interview-questions/
 
 # front end machine coding round challenges
+https://www.linkedin.com/posts/shubham-soni-374a86175_repost-linkedin-connections-activity-7168830384682561536-iAlG?utm_source=share&utm_medium=member_android
 https://youtube.com/playlist?list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo&si=iP3X2c9Kx5Qy4ybX
 https://youtube.com/playlist?list=PLe3J6mZBq1xUs529Z-IHiCix4KBm0uLp1&si=PmJjwOQcNd-tsnVE
 https://youtu.be/gF5cR6mn8ag?si=9KHe7vvugTZ5wUjH
