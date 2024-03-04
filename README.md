@@ -27,5 +27,7 @@ https://betterprogramming.pub/here-are-6-frontend-challenges-to-code-9952190c97c
 https://www.linkedin.com/posts/harshit-chopra-b98a94189_javascript-frontend-interviewquestions-activity-7151057916580552704-ZEfK?utm_source=share&utm_medium=member_android
 https://www.linkedin.com/posts/sweta-soni-45114526b_repost-linkedin-connections-activity-7151436925726277633-QTbC?utm_source=share&utm_medium=member_android
 
+https://www.linkedin.com/posts/harshit-chopra7_here-are-top-15-react-machine-coding-interview-activity-7170263988235190272-kcNR?utm_source=share&utm_medium=member_android
+
 # algorithms
 https://www.linkedin.com/posts/sosamsony_webdevelopment-html5-webdeveloper-activity-7155049157274042368-vO1j?utm_source=share&utm_medium=member_android
